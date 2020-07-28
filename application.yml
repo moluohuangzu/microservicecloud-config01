@@ -7,7 +7,7 @@ spring:
   profiles: dev
   application:
     name: microservicecloud-config-zjk-dev
-    
+#sadsadsa    
 ---
 spring:
   profiles: test
